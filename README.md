@@ -20,5 +20,7 @@ Proyecto del laboratorio – Módulo **Conceptos básicos de Jetpack Compose**.
 2. Usar **Preview** o correr en emulador/dispositivo físico.
 
 ## Capturas
-_(Aquí puedes insertar las imágenes del Preview o del emulador)_
+
+### Preview en Android Studio
+![Preview](preview1.png)
 
